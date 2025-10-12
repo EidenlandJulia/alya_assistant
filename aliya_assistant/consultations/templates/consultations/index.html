@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../../static/consultations/styles.css" />
+    <title>Нейро-сотрудник Министерства алии и интеграции</title>
+  </head>
+  <body>
+    <h1>Нейро-сотрудник Министерства алии и интеграции</h1>
+    <form method="post" action="/ask/">
+      {% csrf_token %}
+      <textarea
+        name="question_text"
+        placeholder="Пример: какие льготы положены студентам-патриантам?"
+      ></textarea>
+      <br /><br />
+      <button type="submit">Отправить</button>
+    </form>
+  </body>
+</html>
