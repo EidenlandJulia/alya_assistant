@@ -1,0 +1,64 @@
+2025-10-24 20:05:06,945 - Not Found: /favicon.ico
+2025-10-24 20:05:16,652 - [1] https://www.kolzchut.org.il/ru/Репатрианты
+2025-10-24 20:05:17,591 - Ошибка PDF https://www.gov.il/BlobFolder/generalpage/employment_draft/he/358.pdf: 404 Client Error: Not Found for url: https://www.gov.il/BlobFolder/generalpage/employment_draft/he/358.pdf
+2025-10-24 20:05:18,101 - [2] https://www.kolzchut.org.il/ru/New_Olim
+2025-10-24 20:05:18,304 - Ошибка запроса: https://www.kolzchut.org.il/ru/New_Olim (404 Client Error: Not Found for url: https://www.kolzchut.org.il/ru/New_Olim)
+2025-10-24 20:05:18,304 - [2] https://www.kolzchut.org.il/ru/category/Олим_Хадашим
+2025-10-24 20:05:18,532 - Ошибка запроса: https://www.kolzchut.org.il/ru/category/Олим_Хадашим (404 Client Error: Not Found for url: https://www.kolzchut.org.il/ru/Category/%D0%9E%D0%BB%D0%B8%D0%BC_%D0%A5%D0%B0%D0%B4%D0%B0%D1%88%D0%B8%D0%BC)
+2025-10-24 20:05:18,533 - [2] https://www.kolzchut.org.il/ru/Тошав_хозер
+2025-10-24 20:05:18,670 - Ошибка запроса: https://www.kolzchut.org.il/ru/Тошав_хозер (404 Client Error: Not Found for url: https://www.kolzchut.org.il/ru/%D0%A2%D0%BE%D1%88%D0%B0%D0%B2_%D1%85%D0%BE%D0%B7%D0%B5%D1%80)
+2025-10-24 20:05:18,671 - [2] https://www.gov.il/ru/subjects/immigration_and_absorption
+2025-10-24 20:05:19,039 - [2] https://www.gov.il/ru/subjects/returning_residents
+2025-10-24 20:05:19,427 - [2] https://www.gov.il/ru/subjects/learning_hebrew
+2025-10-24 20:05:19,784 - [2] https://www.gov.il/ru/departments/ministry_of_aliyah_and_integration
+2025-10-24 20:05:20,213 - [2] https://govextra.gov.il/moia/your-place-in-israel-lang/home-ru/
+2025-10-24 20:05:21,165 - [3] https://www.kolzchut.org.il/ru/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+2025-10-24 20:05:21,403 - [3] https://www.kolzchut.org.il/he/
+2025-10-24 20:05:21,598 - [3] https://www.kolzchut.org.il/he/Project:%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA
+2025-10-24 20:05:21,858 - [3] https://www.kolzchut.org.il/ru/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0
+2025-10-24 20:05:22,658 - [4] https://blog.kolzchut.org.il
+2025-10-24 20:05:23,343 - [4] https://www.kolzchut.org.il/ru/%D0%9A%D0%BE%D0%BB%D1%8C_%D0%97%D1%85%D1%83%D1%82:%D0%9E_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5
+2025-10-24 20:05:23,510 - [4] https://www.kolzchut.org.il/he/Help:%D7%9E%D7%93%D7%A8%D7%99%D7%9A_%D7%9C%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9
+2025-10-24 20:05:23,803 - [4] https://www.kolzchut.org.il/w/ru/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&returnto=%D0%A0%D0%B5%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B
+2025-10-24 20:05:23,968 - [4] https://www.kolzchut.org.il/he/%D7%A2%D7%95%D7%9C%D7%99%D7%9D
+2025-10-24 20:05:24,204 - [4] https://www.kolzchut.org.il/ru/%D0%92%D0%B5%D1%80%D0%BD%D1%83%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B8
+2025-10-24 20:05:24,995 - [5] https://api.whatsapp.com/send?text=%D0%A0%D0%B5%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B%20%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%22%D0%9A%D0%BE%D0%BB%D1%8C%20%D0%97%D1%85%D1%83%D1%82%22%0Ahttps%3A%2F%2Fwww.kolzchut.org.il%2Fru%2F%D0%A0%D0%B5%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B%3Futm_source%3Dsharebar%26utm_medium%3Dwhatsapp
+2025-10-24 20:05:25,702 - [5] https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kolzchut.org.il%2Fru%2F%25D0%25A0%25D0%25B5%25D0%25BF%25D0%25B0%25D1%2582%25D1%2580%25D0%25B8%25D0%25B0%25D0%25BD%25D1%2582%25D1%258B%3Futm_source%3Dsharebar%26utm_medium%3Dfacebook
+2025-10-24 20:05:26,368 - [5] https://www.gov.il/he/service/status_change_from_tourist_to_newcomer
+2025-10-24 20:05:26,733 - [5] https://www.gov.il/he/Departments/General/change-of-status-to-oleh
+2025-10-24 20:05:27,088 - [5] https://www.kolzchut.org.il/ru/%D0%92%D1%8B%D0%B4%D0%B0%D1%87%D0%B0_%D0%B8_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+2025-10-24 20:10:15,229 - [1] https://www.kolzchut.org.il/ru/Репатрианты
+2025-10-24 20:10:15,879 - Ошибка PDF https://www.gov.il/BlobFolder/generalpage/employment_draft/he/358.pdf: 404 Client Error: Not Found for url: https://www.gov.il/BlobFolder/generalpage/employment_draft/he/358.pdf
+2025-10-24 20:10:16,387 - [2] https://www.kolzchut.org.il/ru/New_Olim
+2025-10-24 20:10:16,536 - Ошибка запроса: https://www.kolzchut.org.il/ru/New_Olim (404 Client Error: Not Found for url: https://www.kolzchut.org.il/ru/New_Olim)
+2025-10-24 20:10:16,537 - [2] https://www.kolzchut.org.il/ru/category/Олим_Хадашим
+2025-10-24 20:10:16,693 - Ошибка запроса: https://www.kolzchut.org.il/ru/category/Олим_Хадашим (404 Client Error: Not Found for url: https://www.kolzchut.org.il/ru/Category/%D0%9E%D0%BB%D0%B8%D0%BC_%D0%A5%D0%B0%D0%B4%D0%B0%D1%88%D0%B8%D0%BC)
+2025-10-24 20:10:16,694 - [2] https://www.kolzchut.org.il/ru/Тошав_хозер
+2025-10-24 20:10:16,770 - Ошибка запроса: https://www.kolzchut.org.il/ru/Тошав_хозер (404 Client Error: Not Found for url: https://www.kolzchut.org.il/ru/%D0%A2%D0%BE%D1%88%D0%B0%D0%B2_%D1%85%D0%BE%D0%B7%D0%B5%D1%80)
+2025-10-24 20:10:16,770 - [2] https://www.gov.il/ru/subjects/immigration_and_absorption
+2025-10-24 20:10:17,120 - [2] https://www.gov.il/ru/subjects/returning_residents
+2025-10-24 20:10:17,478 - [2] https://www.gov.il/ru/subjects/learning_hebrew
+2025-10-24 20:10:17,838 - [2] https://www.gov.il/ru/departments/ministry_of_aliyah_and_integration
+2025-10-24 20:10:18,242 - [2] https://govextra.gov.il/moia/your-place-in-israel-lang/home-ru/
+2025-10-24 20:10:18,956 - [3] https://www.kolzchut.org.il/ru/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+2025-10-24 20:10:19,069 - [3] https://www.kolzchut.org.il/he/
+2025-10-24 20:10:19,271 - [3] https://www.kolzchut.org.il/he/Project:%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA
+2025-10-24 20:10:19,472 - [3] https://www.kolzchut.org.il/ru/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0
+2025-10-24 20:10:20,199 - [4] https://blog.kolzchut.org.il
+2025-10-24 20:10:20,937 - [4] https://www.kolzchut.org.il/ru/%D0%9A%D0%BE%D0%BB%D1%8C_%D0%97%D1%85%D1%83%D1%82:%D0%9E_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5
+2025-10-24 20:10:21,038 - [4] https://www.kolzchut.org.il/he/Help:%D7%9E%D7%93%D7%A8%D7%99%D7%9A_%D7%9C%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9
+2025-10-24 20:10:21,251 - [4] https://www.kolzchut.org.il/w/ru/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&returnto=%D0%A0%D0%B5%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B
+2025-10-24 20:10:21,413 - [4] https://www.kolzchut.org.il/he/%D7%A2%D7%95%D7%9C%D7%99%D7%9D
+2025-10-24 20:10:21,662 - [4] https://www.kolzchut.org.il/ru/%D0%92%D0%B5%D1%80%D0%BD%D1%83%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B8
+2025-10-24 20:10:22,568 - [5] https://api.whatsapp.com/send?text=%D0%A0%D0%B5%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B%20%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%22%D0%9A%D0%BE%D0%BB%D1%8C%20%D0%97%D1%85%D1%83%D1%82%22%0Ahttps%3A%2F%2Fwww.kolzchut.org.il%2Fru%2F%D0%A0%D0%B5%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B%3Futm_source%3Dsharebar%26utm_medium%3Dwhatsapp
+2025-10-24 20:10:23,604 - [5] https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kolzchut.org.il%2Fru%2F%25D0%25A0%25D0%25B5%25D0%25BF%25D0%25B0%25D1%2582%25D1%2580%25D0%25B8%25D0%25B0%25D0%25BD%25D1%2582%25D1%258B%3Futm_source%3Dsharebar%26utm_medium%3Dfacebook
+2025-10-24 20:10:24,174 - [5] https://www.gov.il/he/service/status_change_from_tourist_to_newcomer
+2025-10-24 20:10:24,505 - [5] https://www.gov.il/he/Departments/General/change-of-status-to-oleh
+2025-10-24 20:10:24,852 - [5] https://www.kolzchut.org.il/ru/%D0%92%D1%8B%D0%B4%D0%B0%D1%87%D0%B0_%D0%B8_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+2025-10-24 20:11:00,218 - [6] https://www.kolzchut.org.il/ru/%D0%9E%D0%B1%D0%BC%D0%B5%D0%BD_%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D1%80%D0%B0%D0%B2_%D0%BD%D0%B0_%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0
+2025-10-24 20:11:01,076 - [7] https://www.kolzchut.org.il/ru/%D0%9A%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D0%B0_%D0%B0%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D0%B8
+2025-10-24 20:11:08,437 - [8] https://www.btl.gov.il/RussianHomePage/madrichimLeKahalYaad_ru/olimChadashim_ru/Pages/default.aspx
+2025-10-24 20:11:09,932 - [9] https://www.kolzchut.org.il/ru/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%22%D0%A1%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_%D0%BA%D0%B0%D0%B6%D0%B4%D0%BE%D0%B3%D0%BE_%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0%22
+2025-10-24 20:11:10,824 - [10] https://www.kolzchut.org.il/ru/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC-%D0%BD%D0%BE%D0%B2%D1%8B%D0%BC_%D1%80%D0%B5%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%B0%D0%BC_%D0%B2_%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B5_%D1%8F%D1%81%D0%BB%D0%B5%D0%B9_%D0%B8_%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D1%85_%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%B0%D0%B4%D0%BE%D0%B2
+2025-10-24 20:17:23,749 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-24 20:17:55,092 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

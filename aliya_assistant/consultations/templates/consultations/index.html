@@ -17,5 +17,56 @@
       <br /><br />
       <button type="submit">Отправить</button>
     </form>
+   <button id="runParserBtn">Запустить парсер</button>
+
+<script>
+async function startParser() {
+  const res = await fetch("/start-parser/", {
+    method: "POST",
+    headers: { "X-CSRFToken": getCookie("csrftoken") },
+  });
+  const data = await res.json();
+
+  if (data.status === "already_running") {
+    alert("Парсер уже запущен!");
+    return;
+  }
+
+  if (data.status === "started") {
+    alert("Парсер запущен. Подождите завершения...");
+    checkStatus();
+  }
+}
+
+async function checkStatus() {
+  const interval = setInterval(async () => {
+    const res = await fetch("/parser-status/");
+    const data = await res.json();
+    if (data.done) {
+      clearInterval(interval);
+      alert("Парсинг успешно завершён!");
+    }
+  }, 2000);
+}
+
+function getCookie(name) {
+  let cookieValue = null;
+  if (document.cookie && document.cookie !== "") {
+    const cookies = document.cookie.split(";");
+    for (let cookie of cookies) {
+      cookie = cookie.trim();
+      if (cookie.startsWith(name + "=")) {
+        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+        break;
+      }
+    }
+  }
+  return cookieValue;
+}
+
+document.getElementById("runParserBtn").addEventListener("click", startParser);
+</script>
+
+
   </body>
 </html>
